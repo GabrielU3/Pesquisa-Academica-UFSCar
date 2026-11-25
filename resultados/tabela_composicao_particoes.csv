@@ -1,0 +1,6 @@
+,n_treino,n_treino,pct_spam_treino,pct_spam_treino,n_teste,n_teste,pct_spam_teste,pct_spam_teste
+,mean,std,mean,std,mean,std,mean,std
+divisao,,,,,,,,
+Aleatória,1122.0,0.0,41.1,0.0,281.0,0.0,40.9,0.0
+Cronológica,1122.0,0.0,49.4,0.1,281.0,0.0,7.7,0.6
+Cronológica por vídeo,1122.5,0.5,45.1,0.2,280.5,0.5,24.8,0.7
